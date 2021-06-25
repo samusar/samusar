@@ -9,7 +9,7 @@
  <br/> I currently work with stack react (Mobile and WEB) :iphone: :computer:
  <br/> I have experience in NodeJS and PHP.
 
- :rocket:  &nbsp; I'm open to **WORK**:yen::moneybag::yen:
+ :rocket:  &nbsp; I'm open to **WORK**
  <br/> :purple_heart: &nbsp; I love to help beginners in programming.
  <br/> :blush: &nbsp; I can help you with ReactJS, NextJs and ReactNative
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
