@@ -4,7 +4,7 @@
 # Samuel Henrique Santos Monção
 
 ## Hi there 👋
-:hearts:  I'm married to Mrs. Sara Duque.
+:hearts:
  <br/> I'm passionate about developping solutions through code and technology.
  <br/> I currently work with stack react (Mobile and WEB) :iphone: :computer:
  <br/> I have experience in NodeJS and PHP.
